@@ -21,14 +21,6 @@ Workforce Management - Worker Assignment Real Time
 
   --> Workforce Manager
 
-  **✅ Example Records**
-  
-  **Location	    Country	        Postal Code	    Head Count**      
-    Atlanta	    United States     	30326           	85
-    Beijing	        China	          100004	          47
-    London	    United Kingdom	   EC2M 2RB	         105
-     Milan	        Italy	           20092	          45
-
 
 
 
